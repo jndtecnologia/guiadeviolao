@@ -7,7 +7,7 @@ function Home() {
       <Container>
         <Row className="text-center">
           <Col>
-            <h2 className="mt-5">Ambiente de produção</h2>
+            <h2 className="mt-5">Ambiente de desenvolvimento</h2>
           </Col>
         </Row>
       </Container>
